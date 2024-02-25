@@ -8,10 +8,11 @@ import locationIcon from "@iconify/icons-mdi/map-marker";
 const Map = ({ location, zoomLevel }) => (
   <div className="map">
     <h2 className="map-h2">GSC-24 FE</h2>
-
     <div className="google-map">
+    {/*  Loop to the array of markers and point the location */}
+
       <GoogleMapReact
-        bootstrapURLKeys={{ key: "" }} // GCP API Key
+        bootstrapURLKeys={{ key: "AIzaSyA2C03GDZLtdQ5V1x-T95R3kd5kyJrwpz4" }} // GCP API Key
         defaultCenter={location}
         defaultZoom={zoomLevel}
       >
