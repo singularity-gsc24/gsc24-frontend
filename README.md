@@ -12,7 +12,7 @@ Finguard achieves its goal by:
 
 1. Providing a database of fish species along with their current conservation status.
 2. Offering information on the locations where these fish species can be found.
-3. Advising fishermen on sustainable fishing practices and suggesting alternative species to target.
+3. Advising fishermen on sustainable fishing practices and suggesting alternative species to target, by providing the location of the fish species which are safe to hunt.
 
 ## Contribution to UN Sustainable Development Goals
 
